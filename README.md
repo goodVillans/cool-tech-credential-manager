@@ -1,6 +1,6 @@
 # cool-tech-credential-manager
 
-## A credential management application butilt with the MERN stack, for a ficticious company named cool tech where different actions can be conducted based on a users role.
+## A credential management application built with the MERN stack, for a ficticious company named cool tech where different actions can be conducted based on a users role.
 
 ### Assignment Brief: 
 
